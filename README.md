@@ -1,4 +1,6 @@
-![image](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/200.gif)
+<p align="center">
+<img src="https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/200.gif" alt="Star wars episode 3, Obi-wan saying 'Hello there'" />
+</p>
 
 # Education
 I am currently on a data technichan with speciality in programming education. 
