@@ -77,7 +77,9 @@
       <br>
       <img src="https://streak-stats.demolab.com?user=MagnusHLund&theme=tokyonight&card_width=467" alt="Streak stats">
       <br>
+      <div align="center">
       <img src="https://visitcount.itsvg.in/api?id=MagnusHLund&label=Profile%20Views&color=12&icon=0&pretty=false" alt="Profile views">
+      </div>
     </td>
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnushlund&langs_count=8&theme=tokyonight" alt="Top languages">
