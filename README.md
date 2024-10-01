@@ -2,11 +2,6 @@
 <img src="https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/200.gif" alt="Star wars episode 3, Obi-wan saying 'Hello there'" />
 </p>
 
-# Education
-I am currently on a data technichan with speciality in programming education. 
-This ends in May 2027. While I am not at school, I work as an apprentice as part of my education. 
-This work consist of 2nd line support, solving bugs and even implementing new features for products. 
-
 # Tech stack
 <div>
 <!-- ## Development tools -->
