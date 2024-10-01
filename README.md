@@ -3,7 +3,7 @@
 </p>
 
 # Tech stack
-<div>
+<div align="center">
 <!-- ## Development tools -->
 <!-- ### Frontend -->
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery logo with blue badge">
@@ -70,12 +70,12 @@
 </div>
 
 # Stats
-<table>
+<table align="center">
   <tr>
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=magnushlund&show_icons=true&theme=tokyonight&custom_title=Github%20stats" alt="Github stats">
       <br>
-      <img src="https://streak-stats.demolab.com/?user=MagnusHLund&theme=dark" alt="Streak stats">
+      <img src="https://streak-stats.demolab.com?user=MagnusHLund&theme=tokyonight&card_width=467" alt="Streak stats">
       <br>
       <img src="https://visitcount.itsvg.in/api?id=MagnusHLund&label=Profile%20Views&color=12&icon=0&pretty=false" alt="Profile views">
     </td>
@@ -84,6 +84,3 @@
     </td>
   </tr>
 </table>
-
-
-
