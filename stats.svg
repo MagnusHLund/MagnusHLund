@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" style="width: 100%; height: auto;">
+  <foreignObject x="0" y="0" width="400" height="400">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=magnushlund&show_icons=true&theme=tokyonight&custom_title=Github%20stats" alt="Github stats" style="margin-bottom: 20px;">
+      <img src="https://streak-stats.demolab.com?user=MagnusHLund&theme=tokyonight&card_width=400" alt="Streak stats">
+    </div>
+  </foreignObject>
+  <foreignObject x="400" y="0" width="400" height="400">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: center; justify-content: center; height: 100%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnushlund&langs_count=8&theme=tokyonight" alt="Top languages">
+    </div>
+  </foreignObject>
+</svg>
