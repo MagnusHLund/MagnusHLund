@@ -18,8 +18,6 @@ I currently work as an apprentice, doing online payments for e-commerce platform
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=magnushlund&show_icons=true&theme=tokyonight&custom_title=Github%20stats" alt="Github stats">
       <br>
-      <img src="https://streak-stats.demolab.com?user=MagnusHLund&theme=tokyonight&card_width=467" alt="Streak stats">
-      <br>
     </td>
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnushlund&langs_count=8&theme=tokyonight" alt="Top languages">
