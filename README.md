@@ -4,7 +4,7 @@
 
 # About me
 
-My name is Magnus Lund and I am 20 years old.
+My name is Magnus Lund and I am 21 years old.
 <br>
 I am studying to become a data technician with speciality in programming.
 <br>
